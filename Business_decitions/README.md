@@ -66,6 +66,7 @@ Below you can see a few graphics from the project who provide the answers for th
 **You carried out an A/B test and got the results described in the files orders_us.csv and visits_us.csv. Task Analyze the A/B test:  
 Graph cumulative revenue by group. Make conclusions and conjectures.**
 ![](pic0.png)
+
 If you put them on it looks like group A will bring less income this can have many reasons that lead to this result.
 
 ![](pic1.png)
