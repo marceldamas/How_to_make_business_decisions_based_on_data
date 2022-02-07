@@ -6,7 +6,7 @@
 
 
 
-![](../Data-Feedback-Loop-2.png)      
+![](Data-Feedback-Loop-2.png)      
 In this project this will be covered in small a way for the following...
 
 ## Project goal   
