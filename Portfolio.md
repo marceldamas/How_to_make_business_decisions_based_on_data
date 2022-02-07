@@ -1,11 +1,11 @@
-#<u>Portfolio</u>
+#  <u>Portfolio</u>
 
 **Name:** _Marcel Damas_   
 **E-Mail:** [link](marcel-spanien@hotmail.de) 
   
 This is my portfolio from Practicum100
 
-##<u>Project of how to making business decisions based on data</u>
+##  <u>Project of how to making business decisions based on data</u>
 
 Project goal in this project is to filter out the important hypotheses and separate them from the less important,
 with the help of the ICE and the RICE method.
