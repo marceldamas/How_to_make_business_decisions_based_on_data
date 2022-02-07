@@ -11,6 +11,6 @@ Project goal in this project is to filter out the important hypotheses and separ
 with the help of the ICE and the RICE method.
 In addition, we will do an ab test to test the percentiele calculate the hypotheses and draw conclusions.  
 
-Link [Initiation](Business_decitions/project_initiation.md)  
+Link [Initiation](Business_decitions/README.md)  
 Link: [Complete_Project_from_Jupyter](https://github.com/marceldamas/How_to_making_business_decisions_based_on_data/blob/main/Business_decitions/Making_Business_Decisions_Based_on_Data.ipynb)  
 
