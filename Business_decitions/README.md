@@ -77,9 +77,11 @@ Group B takes the lead, it looks like large orders are the cause. We need to get
 It looks as if at least every visitor is doing a tranzaction at the same time and on some days we have more transactions than visitors this can only be if we calculate id with a self-running order that no longer requires a visit and still leads to an order. The problem here at this conversion rate would be that we cannot see whether the visitors are also ordering or whether it is a self-running order.  
    
 **Plot a scatter chart of the number of orders per user. Make conclusions and conjectures.**    
-![](pic3.png)  
-The graph describes the relationship between groups A and B in relation to the relationship between the orders and users. We see the number of users who have placed 0-7 orders. Group B is shown in orange and group A in blue. We also see the order and order relationship of the two groups and the number of users and the number of users of the two groups  
-![](pic4.png)    
+![](pic3.png)      
+    
+The graph describes the relationship between groups A and B in relation to the relationship between the orders and users. We see the number of users who have placed 0-7 orders. Group B is shown in orange and group A in blue. We also see the order and order relationship of the two groups and the number of users and the number of users of the two groups      
+    
+![](pic4.png)      
 We see that there are a few users who place several orders but most of them make 1 order. You can roughly say that the number of orders increases with the number of users. It looks like we have more users in group B, which also makes more orders.  
   
 **Plot a scatter chart of order prices. Make conclusions and conjectures.**  
