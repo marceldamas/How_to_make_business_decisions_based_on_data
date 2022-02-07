@@ -44,5 +44,5 @@ Analyze the A/B test:
    12. Find the statistical significance of the difference in average order size between the groups using the filtered data. Make conclusions and conjectures.
    13. Make a decision based on the test results. The possible decisions are: 1. Stop the test, consider one of the groups the leader. 2. Stop the test, conclude that there is no difference between the groups. 3. Continue the test.
 
-
+Link: [Complete_Project_from_Jupyter](https://github.com/marceldamas/How_to_making_business_decisions_based_on_data/blob/main/Business_decitions/Making_Business_Decisions_Based_on_Data.ipynb)
 
