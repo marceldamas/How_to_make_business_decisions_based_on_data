@@ -5,7 +5,7 @@
 
 
 
-![](**Name:** _Marcel Damas_   
+**Name:** _Marcel Damas_   
 **E-Mail:** _marcel-spanien@hotmail.de_ 
   
 # <u>Making business decisions based on data</u>
