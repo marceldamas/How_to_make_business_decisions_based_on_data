@@ -11,4 +11,4 @@ Project goal in this project is to filter out the important hypotheses and separ
 with the help of the ICE and the RICE method.
 In addition, we will do an ab test to test the percentiele calculate the hypotheses and draw conclusions.  
 
-Link [Initiation](Business_decitions/README.md)  
+Link: [Initiation](Business_decitions/README.md)  
