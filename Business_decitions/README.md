@@ -52,42 +52,42 @@ First here is a look at the raw data I use to process. In this case, three diffe
 The first data set was used to prioritize the hpoteses and processed using the ICE and RICE methods.
 Link: [ICE/RICE](https://sudonull.com/post/11679-RICE-and-ICE-Scoring-simple-prioritization-techniques-for-advanced-product-managers)
 
-The other two following sets of data were used for the AB test and other calculations.  
+The other two following sets of data were used for the AB test and other calculations.    
+  
+**Data set of orders:**  
+![](b2.png)    
+  
+**Data set of visits:**  
+  
+![](b1.png)  
+  
+Below you can see a few graphics from the project who provide the answers for the following questions.  
 
-**Data set of orders:**
-![](b2.png)  
-
-**Data set of visits:**
-
-![](b1.png)
-
-Below you can see a few graphics from the project who provide the answers for the following questions.
-
-**You carried out an A/B test and got the results described in the files orders_us.csv and visits_us.csv. Task Analyze the A/B test:  
-Graph cumulative revenue by group. Make conclusions and conjectures.**
-![](pic0.png)
-
-If you put them on it looks like group A will bring less income this can have many reasons that lead to this result.
-
-![](pic1.png)
-Group B takes the lead, it looks like large orders are the cause. We need to get rid of these for our final analysis. In the complete project it is better broken down and it is examined further.
-
-**Calculate each group's conversion rate as the ratio of orders to the number of visits for each day. Plot the daily conversion rates of the two groups and describe the difference. Draw conclusions and make conjectures.**
-![](pic2.png) 
-It looks as if at least every visitor is doing a tranzaction at the same time and on some days we have more transactions than visitors this can only be if we calculate id with a self-running order that no longer requires a visit and still leads to an order. The problem here at this conversion rate would be that we cannot see whether the visitors are also ordering or whether it is a self-running order.
-
-**Plot a scatter chart of the number of orders per user. Make conclusions and conjectures.**
-![](pic3.png)
-The graph describes the relationship between groups A and B in relation to the relationship between the orders and users. We see the number of users who have placed 0-7 orders. Group B is shown in orange and group A in blue. We also see the order and order relationship of the two groups and the number of users and the number of users of the two groups
-![](pic4.png)  
-We see that there are a few users who place several orders but most of them make 1 order. You can roughly say that the number of orders increases with the number of users. It looks like we have more users in group B, which also makes more orders.
-
-**Plot a scatter chart of order prices. Make conclusions and conjectures.**
-![](pic5.png) 
-Most prices are below 1000, there are a few outliers that are higher than that, the highest outlier has a price of 19920.4.
-
-The hypothesis tests are also listed in the full project.
-
-###  General conclusion
-
-In this project we prioritized the hypotheses with the help of the ICE and the RICE method. Then we presented and interpreted the cumulative revenue by group. We also compared and interpreted the cumulative average order by group and cumulative conversion. We compared the conversion rate of the two groups and the number of orders per user.There's a significant difference in the data between the groups, according to both the raw data. We determined the percentages 95 and 99 and with that the abnormalities. Finally we tested 4 hypoteses two with raw data and 2 with the filtered data. After the tests, we drew conclusions for each hypotesis and looked at whether they exceeded our significant level and thus make a significant difference between the groups average. After the anomalies were removed, it turned out there was a statistically significant difference between the groups average order sizes!
+**You carried out an A/B test and got the results described in the files orders_us.csv and visits_us.csv. Task Analyze the A/B test:    
+Graph cumulative revenue by group. Make conclusions and conjectures.**  
+![](pic0.png)    
+  
+If you put them on it looks like group A will bring less income this can have many reasons that lead to this result.  
+  
+![](pic1.png)    
+Group B takes the lead, it looks like large orders are the cause. We need to get rid of these for our final analysis. In the complete project it is better broken down and it is examined further.  
+  
+**Calculate each group's conversion rate as the ratio of orders to the number of visits for each day. Plot the daily conversion rates of the two groups and describe the difference. Draw conclusions and make conjectures.**  
+![](pic2.png)     
+It looks as if at least every visitor is doing a tranzaction at the same time and on some days we have more transactions than visitors this can only be if we calculate id with a self-running order that no longer requires a visit and still leads to an order. The problem here at this conversion rate would be that we cannot see whether the visitors are also ordering or whether it is a self-running order.  
+   
+**Plot a scatter chart of the number of orders per user. Make conclusions and conjectures.**    
+![](pic3.png)  
+The graph describes the relationship between groups A and B in relation to the relationship between the orders and users. We see the number of users who have placed 0-7 orders. Group B is shown in orange and group A in blue. We also see the order and order relationship of the two groups and the number of users and the number of users of the two groups  
+![](pic4.png)    
+We see that there are a few users who place several orders but most of them make 1 order. You can roughly say that the number of orders increases with the number of users. It looks like we have more users in group B, which also makes more orders.  
+  
+**Plot a scatter chart of order prices. Make conclusions and conjectures.**  
+![](pic5.png)   
+Most prices are below 1000, there are a few outliers that are higher than that, the highest outlier has a price of 19920.4.  
+  
+The hypothesis tests are also listed in the full project.  
+  
+###  General conclusion  
+  
+In this project we prioritized the hypotheses with the help of the ICE and the RICE method. Then we presented and interpreted the cumulative revenue by group. We also compared and interpreted the cumulative average order by group and cumulative conversion. We compared the conversion rate of the two groups and the number of orders per user.There's a significant difference in the data between the groups, according to both the raw data. We determined the percentages 95 and 99 and with that the abnormalities. Finally we tested 4 hypoteses two with raw data and 2 with the filtered data. After the tests, we drew conclusions for each hypotesis and looked at whether they exceeded our significant level and thus make a significant difference between the groups average. After the anomalies were removed, it turned out there was a statistically significant difference between the groups average order sizes!  
