@@ -1,9 +1,9 @@
 #  <u>Portfolio</u>
 
 **Name:** _Marcel Damas_   
-**E-Mail:** [link](marcel-spanien@hotmail.de) 
+**E-Mail:** _marcel-spanien@hotmail.de_
   
-This is my portfolio from Practicum100
+This is one of my projects from Practicum100
 
 ##  <u>Project of how to making business decisions based on data</u>
 
@@ -12,5 +12,5 @@ with the help of the ICE and the RICE method.
 In addition, we will do an ab test to test the percentiele calculate the hypotheses and draw conclusions.  
 
 Link [Initiation](project_initiation.md)  
-Link: [Complete_Project_from_Jupyter](Portfolio/Making_Business_Decisions_Based_on_Data.ipynb)  
+Link: [Complete_Project_from_Jupyter](https://github.com/marceldamas/How_to_making_business_decisions_based_on_data/blob/main/Making_Business_Decisions_Based_on_Data.ipynb)  
 
